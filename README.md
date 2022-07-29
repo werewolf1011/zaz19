@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zaz19
+- 👀 I’m interested in cyber security 
+- 🌱 I’m currently learning some linux stuffs
+- 💞️ I’m looking to collaborate on ethical hacking.
+- 📫 jenishshahi1011@gmail.com
